@@ -1,11 +1,11 @@
 {
     "name": "vita/phalcon-skeleton",
-    "authors": {
+    "authors": [
         {
             "name": "Vinicius de Sa",
             "email": "viniciusss@me.com"
         }
-    },
+    ],
     "description": "Skeleton Application for Phalcon",
     "keywords": [
         "framework",
