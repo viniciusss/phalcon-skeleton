@@ -1,0 +1,21 @@
+{
+	"name": "vita/skeleton",
+	"authors": {
+		"name": "Vinicius de Sa",
+		"email": "viniciusss@me.com"
+	},
+	"description": "Skeleton Application for Phalcon",
+	"keywords": [
+        "framework",
+        "phalcon",
+        "skeleton"
+    ],
+    "homepage": "http://www.vitasoftware.com.br/",
+    "require": {
+        "php": ">=5.4",
+        "ext-phalcon": "*"
+    },
+    "autoload": {
+        "psr-0": { "Vita\\": "src/" }
+    }
+}
